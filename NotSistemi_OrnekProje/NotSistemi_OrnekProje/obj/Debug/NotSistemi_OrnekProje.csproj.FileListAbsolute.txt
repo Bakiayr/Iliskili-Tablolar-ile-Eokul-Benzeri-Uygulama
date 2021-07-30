@@ -1,0 +1,16 @@
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\bin\Debug\NotSistemi_OrnekProje.exe.config
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\bin\Debug\NotSistemi_OrnekProje.exe
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\bin\Debug\NotSistemi_OrnekProje.pdb
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.csprojAssemblyReference.cache
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.Form1.resources
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.Properties.Resources.resources
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.csproj.GenerateResource.cache
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.csproj.CoreCompileInputs.cache
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.exe
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.pdb
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.FrmOgrenciNotlar.resources
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.FrmOgretmen.resources
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.FrmKulup.resources
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.FrmDersler.resources
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.FrmOgrenci.resources
+C:\Users\bakia\source\repos\NotSistemi_OrnekProje\NotSistemi_OrnekProje\obj\Debug\NotSistemi_OrnekProje.FrmSınavSonuclar.resources
